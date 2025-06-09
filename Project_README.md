@@ -12,8 +12,7 @@ Study on how staying abroad affects depression (PHQ-9), self-esteem (SCS), and a
 
 ## 🛠️ Technologies
 - **SQL**: Data cleaning and analysis (PostgreSQL)
-- **Python**: Visualizations (optional, with Pandas/Matplotlib)
-
+- 
 ## 📌 Key Findings
 1. **Symptom reduction**:
    - After 5 months, depression ↓ 25% and anxiety ↓ 32% compared to the 1st month.
